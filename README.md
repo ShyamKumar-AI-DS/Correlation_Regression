@@ -50,4 +50,6 @@ plt.legend(["Regression Line","Data Points"])
 ~~~
 # Results and Output : 
 ![E04PROB](https://user-images.githubusercontent.com/93427182/194225763-a37e478e-0651-474e-82cf-7b404cfa6089.png)
+
+
 Thus,we analysed given data using coeffificient of correlation and regression line method.
